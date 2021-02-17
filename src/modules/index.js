@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux'
-import counter from './counter'
+import teams from './teams'
 
 export default combineReducers({
-  counter
+  teams
 })
