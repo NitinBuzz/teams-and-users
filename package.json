@@ -32,7 +32,7 @@
     "cypress": "^6.5.0",
     "jest": "^26.6.0",
     "prettier": "2.2.1",
-    "react-scripts": "2.1.8",
+    "react-scripts": "3.0.1",
     "ts-jest": "^26.5.1"
   },
   "browserslist": [
