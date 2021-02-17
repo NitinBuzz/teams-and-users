@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage" : "https://pavans-tempo.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
